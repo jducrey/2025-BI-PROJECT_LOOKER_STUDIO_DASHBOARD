@@ -30,7 +30,7 @@ The dashboard is structured into five pages, each providing a different perspect
 4️⃣ Ratings Analysis – Analysis of tourism ratings by category and country.
 <img width="453" alt="Rating Analysis" src="https://github.com/user-attachments/assets/00214302-99f9-4db9-8076-7a8338de5ca5" />
 
-5️⃣ Documentation – Overview of the dataset, methodology, and this README.
+5️⃣ Documentation – Overview of the dataset, methodology, and this README file.
 <img width="453" alt="Documentation" src="https://github.com/user-attachments/assets/97951700-40d7-459f-8ef4-656d46d9386f" />
 
 
